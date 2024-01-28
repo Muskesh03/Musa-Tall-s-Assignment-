@@ -1,4 +1,4 @@
-# Musa-Tall-s-Assignment-
+# Musa-Talle-s-Assignment-
 # Filename: number_classifier.py
 
 def is_even(number):
